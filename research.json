@@ -1,0 +1,626 @@
+{
+  "schemaVersion": 1,
+  "researchedAt": "2026-10-06T16:25:00Z",
+  "language": "zh-Hant",
+  "ranking": {
+    "title": "日本漫画周榜",
+    "subtitle": "ORICON 漫画作品别销售排名",
+    "country": "JP",
+    "publisher": "ORICON",
+    "chartDate": "2026-10-05",
+    "metric": "Estimated sales copies aggregated by comic work/series, across eligible book editions",
+    "metricZh": "按漫画作品合并统计销售册数，含不同开本版本",
+    "sourceTitle": "週間 コミック作品別売上ランキング 2026年10月05日付",
+    "sourceUrl": "https://www.oricon.co.jp/rank/cbm/w/2026-10-05/",
+    "methodologyUrl": "https://biz.oricon.co.jp/menu.asp",
+    "scopeNoteZh": "这是 ORICON 指定日期的日本漫画作品销售周榜，用作热度参考；并非全日本读者投票、全网阅读量或实时人气榜。",
+    "exactSalesFigures": null,
+    "salesFiguresNote": "The public top-ten page provides rank, title and creator, but no sales counts. Do not invent scores, ratings, counts, popularity percentages, or changes versus the prior week.",
+    "refreshMode": "dated_snapshot",
+    "dateNote": "The source chart is dated 2026-10-05. Do not label that date as the end of the underlying sales measurement period, which was not shown on this page.",
+    "label": "日本漫畫銷售週榜 TOP 10",
+    "description": "ORICON 日本漫畫作品別銷售排名。按作品合併計算銷售冊數，作為熱度參考；並非全網閱讀量、全日本讀者投票或即時人氣榜。",
+    "url": "https://www.oricon.co.jp/rank/cbm/w/2026-10-05/",
+    "date": "2026-10-05",
+    "checked": "2026-10-06",
+    "period": "2026 年 10 月 5 日付週榜（來源未在此頁列出實際統計起訖日）"
+  },
+  "rights": {
+    "chapterRedistributionAuthorized": false,
+    "blanketEmbedAuthorizationVerified": false,
+    "catalogCanBeAdFree": true,
+    "officialReadersAdFreeGuaranteed": false,
+    "contentPolicyZh": "本站不儲存或搬運漫畫正文。閱讀入口前往版權方或正版平台；免費範圍、語言、登入、地區和廣告由對方決定。",
+    "requiredForFullInSiteReader": "A content license/provider agreement covering display or user-provided lawfully accessible files.",
+    "coverImages": "No cover redistribution or hotlink permission was verified. Prefer original abstract/typographic covers unless a licensed provider permits artwork use.",
+    "embedException": "Magapoke publicly exposes an embed/copy control on Blue Lock and The Fragrant Flower episode pages. Their /embed endpoints resolve with matching episode titles. Actual iframe rendering, exact generated HTML and any extra embed terms were not verified. This is evidence for an offered official widget, not permission to download or rehost pages.",
+    "sources": [
+      {
+        "url": "https://shonenjumpplus.com/article/terms_of_service",
+        "note": "Section 9 confines rights to permitted viewing within the service; Section 7 permits advertisements."
+      },
+      {
+        "url": "https://www.shodensha.co.jp/onnanosononohoshi/",
+        "note": "Footer states no reproduction or republication without written permission."
+      },
+      {
+        "url": "https://morning.kodansha.co.jp/c/chiikawa.html",
+        "note": "Footer prohibits unauthorized reproduction/republication."
+      },
+      {
+        "url": "https://championcross.jp/episodes/4ba181178e095/",
+        "note": "Footer copyright notice prohibits unauthorized reproduction; page exposes account-registration UI."
+      },
+      {
+        "url": "https://pocket.shonenmagazine.com/title/00617/episode/213491",
+        "note": "Visible official embed and copy controls."
+      },
+      {
+        "url": "https://pocket.shonenmagazine.com/title/01524/episode/329599",
+        "note": "Visible official embed and copy controls."
+      }
+    ],
+    "embedPolicyForCurrentApp": "Do not embed external readers in this version. Catalog remains free of ads and external reader tracking; official reading links open separately. Offered Magapoke embeds may be evaluated in a future integration only."
+  },
+  "entries": [
+    {
+      "id": "black-butler",
+      "rank": 1,
+      "title": "黑执事",
+      "originalTitle": "黒執事",
+      "englishTitle": "Black Butler",
+      "authors": [
+        {
+          "name": "枢やな",
+          "role": "漫画"
+        }
+      ],
+      "author": "枢やな",
+      "publisher": "SQUARE ENIX",
+      "genres": [
+        "奇幻",
+        "悬疑"
+      ],
+      "synopsis": "一位举止优雅、能力出众的执事，悉心服侍自己的主人。精致茶具与日常礼仪背后，是这段主仆关系不同寻常的一面。",
+      "officialUrl": "https://magazine.jp.square-enix.com/top/comics/detail/9784757519633/",
+      "readingUrl": "https://magazine.jp.square-enix.com/gfantasy/tcym/kuroshitsuji_01/",
+      "readingProvider": "SQUARE ENIX",
+      "readingLabel": "官方第 1 话试读",
+      "readingLanguage": "日语",
+      "readingKind": "official_chapter_preview",
+      "readingVerification": "Linked by publisher volume-one page; preview endpoint resolves with matching title; image rendering not inspected.",
+      "sourceUrls": [
+        "https://magazine.jp.square-enix.com/top/comics/detail/9784757519633/"
+      ],
+      "embedUrl": null,
+      "hostedChapters": false
+    },
+    {
+      "id": "blue-lock",
+      "rank": 2,
+      "title": "蓝色监狱",
+      "originalTitle": "ブルーロック",
+      "englishTitle": "BLUE LOCK",
+      "authors": [
+        {
+          "name": "金城宗幸",
+          "role": "原作"
+        },
+        {
+          "name": "ノ村優介",
+          "role": "漫画"
+        }
+      ],
+      "author": "金城宗幸 / ノ村優介",
+      "publisher": "讲谈社",
+      "genres": [
+        "运动",
+        "足球"
+      ],
+      "synopsis": "为了培养能带领日本队夺冠的前锋，三百名少年进入残酷的选拔计划。洁世一必须在竞争中找到属于自己的制胜武器。",
+      "officialUrl": "https://pocket.shonenmagazine.com/title/00617/episode/213491",
+      "readingUrl": "https://pocket.shonenmagazine.com/title/00617/episode/213491",
+      "readingProvider": "マガポケ",
+      "readingLabel": "官方第 1 话",
+      "readingLanguage": "日语",
+      "readingKind": "official_chapter",
+      "readingVerification": "Official episode title, creators, synopsis and embed-sharing controls verified through web retrieval.",
+      "sourceUrls": [
+        "https://pocket.shonenmagazine.com/title/00617/episode/213491"
+      ],
+      "embedUrl": "https://pocket.shonenmagazine.com/title/00617/episode/213491/embed",
+      "embedVerification": "Endpoint resolves with matching title; official parent page offers embed; browser iframe behavior and exact generated HTML unverified.",
+      "hostedChapters": false
+    },
+    {
+      "id": "jojo",
+      "rank": 3,
+      "title": "JOJO 的奇妙冒险",
+      "originalTitle": "ジョジョの奇妙な冒険",
+      "englishTitle": "JoJo's Bizarre Adventure",
+      "authors": [
+        {
+          "name": "荒木飛呂彦",
+          "role": "漫画"
+        }
+      ],
+      "author": "荒木飛呂彦",
+      "publisher": "集英社",
+      "genres": [
+        "冒险",
+        "奇幻"
+      ],
+      "synopsis": "十九世纪末，乔斯达家迎来野心勃勃的养子迪奥。乔纳森与他的冲突，因一副神秘石面具而走向超越常理的冒险。",
+      "officialUrl": "https://jojo-portal.com/comics/",
+      "readingUrl": "https://shonenjumpplus.com/episode/3269632237245268586",
+      "readingProvider": "少年ジャンプ＋",
+      "readingLabel": "官方第 1 部第 1 话",
+      "readingLanguage": "日语",
+      "readingKind": "official_chapter",
+      "readingVerification": "Official episode title, author and synopsis verified.",
+      "rankScopeNote": "ORICON ranks the whole JoJo comic work; the featured item is The JOJOLands volume 9. This reading link intentionally starts at Part 1, not Part 9.",
+      "sourceUrls": [
+        "https://shonenjumpplus.com/episode/3269632237245268586",
+        "https://jojo-portal.com/comics/"
+      ],
+      "embedUrl": null,
+      "hostedChapters": false
+    },
+    {
+      "id": "fragrant-flower",
+      "rank": 4,
+      "title": "薰香花朵凛然绽放",
+      "originalTitle": "薫る花は凛と咲く",
+      "englishTitle": "The Fragrant Flower Blooms with Dignity",
+      "authors": [
+        {
+          "name": "三香見サカ",
+          "role": "漫画"
+        }
+      ],
+      "author": "三香見サカ",
+      "publisher": "讲谈社",
+      "genres": [
+        "青春",
+        "恋爱"
+      ],
+      "synopsis": "外表凶悍却温柔的凛太郎，在家里的蛋糕店结识薰子。两人来自彼此看不顺眼的相邻学校，仍慢慢跨越成见、靠近对方。",
+      "officialUrl": "https://pocket.shonenmagazine.com/title/01524/episode/329599",
+      "readingUrl": "https://pocket.shonenmagazine.com/title/01524/episode/329599",
+      "readingProvider": "マガポケ",
+      "readingLabel": "官方第 1 话",
+      "readingLanguage": "日语",
+      "readingKind": "official_chapter",
+      "readingVerification": "Official episode title, author, synopsis and embed-sharing controls verified.",
+      "sourceUrls": [
+        "https://pocket.shonenmagazine.com/title/01524/episode/329599"
+      ],
+      "embedUrl": "https://pocket.shonenmagazine.com/title/01524/episode/329599/embed",
+      "embedVerification": "Endpoint resolves with matching title; official parent page offers embed; browser iframe behavior and exact generated HTML unverified.",
+      "hostedChapters": false
+    },
+    {
+      "id": "iruma",
+      "rank": 5,
+      "title": "入间同学入魔了！",
+      "originalTitle": "魔入りました!入間くん",
+      "englishTitle": "Welcome to Demon School! Iruma-kun",
+      "authors": [
+        {
+          "name": "西修",
+          "role": "漫画"
+        }
+      ],
+      "author": "西修",
+      "publisher": "秋田书店",
+      "genres": [
+        "奇幻",
+        "校园"
+      ],
+      "synopsis": "老好人少年入间被父母卖给恶魔，却意外得到对方如孙子般的疼爱。他进入恶魔学校，在隐藏人类身份的同时结交奇妙伙伴。",
+      "officialUrl": "https://championcross.jp/episodes/4ba181178e095/",
+      "readingUrl": "https://championcross.jp/episodes/4ba181178e095/",
+      "readingProvider": "チャンピオンクロス",
+      "readingLabel": "官方第 1 话",
+      "readingLanguage": "日语",
+      "readingKind": "official_chapter",
+      "readingVerification": "Episode title and author verified; page includes account-registration requirements UI. Do not promise anonymous access or expired multi-volume promotions.",
+      "sourceUrls": [
+        "https://championcross.jp/episodes/4ba181178e095/"
+      ],
+      "embedUrl": null,
+      "hostedChapters": false
+    },
+    {
+      "id": "hoshi",
+      "rank": 6,
+      "title": "女校之星",
+      "originalTitle": "女の園の星",
+      "englishTitle": "Hoshi of the Girls' Garden",
+      "authors": [
+        {
+          "name": "和山やま",
+          "role": "漫画"
+        }
+      ],
+      "author": "和山やま",
+      "publisher": "祥传社",
+      "genres": [
+        "喜剧",
+        "日常"
+      ],
+      "synopsis": "女子高中的国语教师星老师，面对学生们出其不意的小点子和琐碎日常。看似平静的课堂与办公室，藏着一本正经的荒诞笑料。",
+      "officialUrl": "https://www.shodensha.co.jp/onnanosononohoshi/",
+      "readingUrl": "https://www.shodensha.co.jp/onnanosononohoshi/",
+      "readingProvider": "祥传社",
+      "readingLabel": "官方作品与试读",
+      "readingLanguage": "日语",
+      "readingKind": "official_work_page_with_story_images",
+      "readingVerification": "Publisher special site verified; STORY contains publisher-hosted preview images. Do not label as full chapter library.",
+      "sourceUrls": [
+        "https://www.shodensha.co.jp/onnanosononohoshi/",
+        "https://news.shodensha.co.jp/article/479008557.html"
+      ],
+      "embedUrl": null,
+      "hostedChapters": false
+    },
+    {
+      "id": "kingdom",
+      "rank": 7,
+      "title": "王者天下",
+      "originalTitle": "キングダム",
+      "englishTitle": "Kingdom",
+      "authors": [
+        {
+          "name": "原泰久",
+          "role": "漫画"
+        }
+      ],
+      "author": "原泰久",
+      "publisher": "集英社",
+      "genres": [
+        "历史",
+        "战争"
+      ],
+      "synopsis": "战乱不断的古代中国，少年信立志凭自己的力量成为名震天下的大将军。在纷争与战场之中，他开始一步步追逐遥远的梦想。",
+      "officialUrl": "https://youngjump.jp/kingdom/",
+      "readingUrl": "https://ynjn.jp/title/109",
+      "readingProvider": "ヤンジャン＋",
+      "readingLabel": "官方第 1 话",
+      "readingLanguage": "日语",
+      "readingKind": "official_chapter",
+      "readingVerification": "Official endpoint resolves with title キングダム第1話 無名の少年; body is JavaScript/image-driven and was not inspected.",
+      "sourceUrls": [
+        "https://books.shueisha.co.jp/items/contents.html?jdcn=08877079877079315501",
+        "https://ynjn.jp/title/109"
+      ],
+      "embedUrl": null,
+      "hostedChapters": false
+    },
+    {
+      "id": "hunter",
+      "rank": 8,
+      "title": "全职猎人",
+      "originalTitle": "HUNTER×HUNTER",
+      "englishTitle": "HUNTER×HUNTER",
+      "authors": [
+        {
+          "name": "冨樫義博",
+          "role": "漫画"
+        }
+      ],
+      "author": "冨樫義博",
+      "publisher": "集英社",
+      "genres": [
+        "冒险",
+        "奇幻"
+      ],
+      "synopsis": "小杰为寻找父亲而参加猎人考试，与奇犽、酷拉皮卡和雷欧力相遇。艰难的试炼既考验实力，也让伙伴之间的羁绊不断加深。",
+      "officialUrl": "https://sp.shonenjump.com/j/rensai/hunter/",
+      "readingUrl": "https://shonenjumpplus.com/episode/10833519556325021810",
+      "readingProvider": "少年ジャンプ＋",
+      "readingLabel": "官方第 1 话",
+      "readingLanguage": "日语",
+      "readingKind": "official_chapter",
+      "readingVerification": "Official episode title, author and synopsis verified.",
+      "sourceUrls": [
+        "https://shonenjumpplus.com/episode/10833519556325021810"
+      ],
+      "embedUrl": null,
+      "hostedChapters": false
+    },
+    {
+      "id": "haikyu",
+      "rank": 9,
+      "title": "排球少年!!",
+      "originalTitle": "ハイキュー!!",
+      "englishTitle": "Haikyu!!",
+      "authors": [
+        {
+          "name": "古舘春一",
+          "role": "漫画"
+        }
+      ],
+      "author": "古舘春一",
+      "publisher": "集英社",
+      "genres": [
+        "运动",
+        "青春"
+      ],
+      "synopsis": "热爱排球的日向翔阳进入乌野高中，竟与曾击败自己的天才二传影山成为队友。身高并非全部，默契与坚持让他们向更高处起跳。",
+      "officialUrl": "https://shonenjumpplus.com/episode/10833519556325021936",
+      "readingUrl": "https://shonenjumpplus.com/episode/10833519556325021936",
+      "readingProvider": "少年ジャンプ＋",
+      "readingLabel": "官方第 1 话",
+      "readingLanguage": "日语",
+      "readingKind": "official_chapter",
+      "readingVerification": "Official episode title, author and synopsis verified. Temporary campaign text present; do not hard-code all chapters free.",
+      "sourceUrls": [
+        "https://shonenjumpplus.com/episode/10833519556325021936"
+      ],
+      "embedUrl": null,
+      "hostedChapters": false
+    },
+    {
+      "id": "chiikawa",
+      "rank": 10,
+      "title": "吉伊卡哇",
+      "originalTitle": "ちいかわ なんか小さくてかわいいやつ",
+      "englishTitle": "Chiikawa",
+      "authors": [
+        {
+          "name": "ナガノ",
+          "role": "漫画"
+        }
+      ],
+      "author": "ナガノ",
+      "publisher": "讲谈社",
+      "genres": [
+        "日常",
+        "奇幻"
+      ],
+      "synopsis": "小小的吉伊与朋友们吃喜欢的食物、努力工作，也遇见难以解释的怪事。柔软可爱的画面里，快乐、胆怯和生活的不容易交织在一起。",
+      "officialUrl": "https://morning.kodansha.co.jp/c/chiikawa.html",
+      "readingUrl": "https://news.kodansha.co.jp/comics/9007",
+      "readingProvider": "讲谈社",
+      "readingLabel": "官方节选试读",
+      "readingLanguage": "日语",
+      "readingKind": "official_excerpt_article",
+      "readingVerification": "Publisher article contains several excerpt pages and identifies author. Historical article, not a full updated chapter listing.",
+      "sourceUrls": [
+        "https://news.kodansha.co.jp/comics/9007",
+        "https://morning.kodansha.co.jp/c/chiikawa.html"
+      ],
+      "embedUrl": null,
+      "hostedChapters": false
+    }
+  ],
+  "implementationNotes": [
+    "All Chinese synopses are newly written short summaries, not copied publisher prose.",
+    "Chinese titles are convenient display labels; Japanese source titles disambiguate the works. Do not claim they are official mainland publication titles.",
+    "Dates and ranks are real; no manufactured reader counts, ratings, sales numbers, chapters, cover art permissions, or live-update promise.",
+    "Links were verified using web retrieval at the stated research time; page images, login gating, regional access and embedded-reader runtime require browser QA.",
+    "For an external-only catalog use a label such as 前往官方阅读, not 站内开始阅读.",
+    "The source chart carries a no-republication notice. Attribute the concise factual ranks with a direct source link; do not copy ORICON layout, artwork, prose, or a full data feed. Broader commercial reuse may require permission."
+  ],
+  "items": [
+    {
+      "rank": 1,
+      "id": "black-butler",
+      "title": "黑執事",
+      "originalTitle": "黒執事",
+      "author": "枢やな",
+      "synopsis": "一位舉止優雅、能力出眾的執事，悉心服侍自己的主人。精緻茶具與日常禮儀背後，是這段主僕關係不同尋常的一面。",
+      "url": "https://magazine.jp.square-enix.com/gfantasy/tcym/kuroshitsuji_01/",
+      "readingNote": "官方第 1 話試讀（日文）；完整作品與可讀範圍依出版社規定。",
+      "color": "#efe3ce",
+      "ink": "#463c31",
+      "officialUrl": "https://magazine.jp.square-enix.com/top/comics/detail/9784757519633/",
+      "sourceUrls": [
+        "https://magazine.jp.square-enix.com/top/comics/detail/9784757519633/"
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "blue-lock",
+      "title": "藍色監獄",
+      "originalTitle": "ブルーロック",
+      "author": "金城宗幸 / ノ村優介",
+      "synopsis": "為了培養能帶領日本隊奪冠的前鋒，三百名少年進入殘酷的選拔計畫。潔世一必須在競爭中找到屬於自己的致勝武器。",
+      "url": "https://pocket.shonenmagazine.com/title/00617/episode/213491",
+      "readingNote": "マガポケ官方第 1 話（日文）；後續章節可能需要登入或付費。",
+      "color": "#cbd8df",
+      "ink": "#253747",
+      "officialUrl": "https://pocket.shonenmagazine.com/title/00617/episode/213491",
+      "sourceUrls": [
+        "https://pocket.shonenmagazine.com/title/00617/episode/213491"
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "jojo",
+      "title": "JOJO 的奇妙冒險",
+      "originalTitle": "ジョジョの奇妙な冒険",
+      "author": "荒木飛呂彦",
+      "synopsis": "十九世紀末，喬斯達家迎來野心勃勃的養子迪奧。喬納森與他的衝突，因一副神祕石面具而走向超越常理的冒險。",
+      "url": "https://shonenjumpplus.com/episode/3269632237245268586",
+      "readingNote": "少年 Jump+ 官方第 1 部第 1 話（日文）。榜單涵蓋整個系列，入口從第 1 部開始。",
+      "color": "#c5b3cc",
+      "ink": "#49304f",
+      "officialUrl": "https://jojo-portal.com/comics/",
+      "sourceUrls": [
+        "https://shonenjumpplus.com/episode/3269632237245268586",
+        "https://jojo-portal.com/comics/"
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "fragrant-flower",
+      "title": "薰香花朵凜然綻放",
+      "originalTitle": "薫る花は凛と咲く",
+      "author": "三香見サカ",
+      "synopsis": "外表兇悍卻溫柔的凜太郎，在家裡的蛋糕店結識薰子。兩人來自彼此看不順眼的相鄰學校，仍慢慢跨越成見、靠近對方。",
+      "url": "https://pocket.shonenmagazine.com/title/01524/episode/329599",
+      "readingNote": "マガポケ官方第 1 話（日文）；後續章節可能需要登入或付費。",
+      "color": "#e8c8c2",
+      "ink": "#563b3b",
+      "officialUrl": "https://pocket.shonenmagazine.com/title/01524/episode/329599",
+      "sourceUrls": [
+        "https://pocket.shonenmagazine.com/title/01524/episode/329599"
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "iruma",
+      "title": "入間同學入魔了！",
+      "originalTitle": "魔入りました!入間くん",
+      "author": "西修",
+      "synopsis": "老好人少年入間被父母賣給惡魔，卻意外得到對方如孫子般的疼愛。他進入惡魔學校，在隱藏人類身分的同時結交奇妙夥伴。",
+      "url": "https://championcross.jp/episodes/4ba181178e095/",
+      "readingNote": "秋田書店官方第 1 話（日文）；頁面含帳號註冊提示，可讀範圍以平台為準。",
+      "color": "#c9d3c0",
+      "ink": "#3b4935",
+      "officialUrl": "https://championcross.jp/episodes/4ba181178e095/",
+      "sourceUrls": [
+        "https://championcross.jp/episodes/4ba181178e095/"
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "hoshi",
+      "title": "女校之星",
+      "originalTitle": "女の園の星",
+      "author": "和山やま",
+      "synopsis": "女子高中的國語教師星老師，面對學生們出其不意的小點子和瑣碎日常。看似平靜的課堂與辦公室，藏著一本正經的荒誕笑料。",
+      "url": "https://www.shodensha.co.jp/onnanosononohoshi/",
+      "readingNote": "祥傳社官方作品頁與節選（日文）；不是完整章節庫。",
+      "color": "#e2d3b5",
+      "ink": "#4c4434",
+      "officialUrl": "https://www.shodensha.co.jp/onnanosononohoshi/",
+      "sourceUrls": [
+        "https://www.shodensha.co.jp/onnanosononohoshi/",
+        "https://news.shodensha.co.jp/article/479008557.html"
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "kingdom",
+      "title": "王者天下",
+      "originalTitle": "キングダム",
+      "author": "原泰久",
+      "synopsis": "戰亂不斷的古代中國，少年信立志憑自己的力量成為名震天下的大將軍。在紛爭與戰場之中，他開始一步步追逐遙遠的夢想。",
+      "url": "https://ynjn.jp/title/109",
+      "readingNote": "集英社ヤンジャン＋官方第 1 話（日文）；登入、地區與付費限制依平台規定。",
+      "color": "#c7b9a6",
+      "ink": "#453b32",
+      "officialUrl": "https://youngjump.jp/kingdom/",
+      "sourceUrls": [
+        "https://books.shueisha.co.jp/items/contents.html?jdcn=08877079877079315501",
+        "https://ynjn.jp/title/109"
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "hunter",
+      "title": "HUNTER×HUNTER 獵人",
+      "originalTitle": "HUNTER×HUNTER",
+      "author": "冨樫義博",
+      "synopsis": "小傑為尋找父親而參加獵人試驗，與奇犽、酷拉皮卡和雷歐力相遇。艱難的試煉既考驗實力，也讓夥伴之間的羈絆不斷加深。",
+      "url": "https://shonenjumpplus.com/episode/10833519556325021810",
+      "readingNote": "少年 Jump+ 官方第 1 話（日文）；後續章節可讀範圍依平台規定。",
+      "color": "#c1d5c6",
+      "ink": "#314e3e",
+      "officialUrl": "https://sp.shonenjump.com/j/rensai/hunter/",
+      "sourceUrls": [
+        "https://shonenjumpplus.com/episode/10833519556325021810"
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "haikyu",
+      "title": "排球少年!!",
+      "originalTitle": "ハイキュー!!",
+      "author": "古舘春一",
+      "synopsis": "熱愛排球的日向翔陽進入烏野高中，竟與曾擊敗自己的天才舉球員影山成為隊友。身高並非全部，默契與堅持讓他們向更高處起跳。",
+      "url": "https://shonenjumpplus.com/episode/10833519556325021936",
+      "readingNote": "少年 Jump+ 官方第 1 話（日文）；限時活動與免費範圍可能調整。",
+      "color": "#ddc1a0",
+      "ink": "#513d2a",
+      "officialUrl": "https://shonenjumpplus.com/episode/10833519556325021936",
+      "sourceUrls": [
+        "https://shonenjumpplus.com/episode/10833519556325021936"
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "chiikawa",
+      "title": "吉伊卡哇",
+      "originalTitle": "ちいかわ なんか小さくてかわいいやつ",
+      "author": "ナガノ",
+      "synopsis": "小小的吉伊與朋友們吃喜歡的食物、努力工作，也遇見難以解釋的怪事。柔軟可愛的畫面裡，快樂、膽怯和生活的不容易交織在一起。",
+      "url": "https://news.kodansha.co.jp/comics/9007",
+      "readingNote": "講談社官方節選文章（日文）；屬於歷史試讀文章，不是即時完整連載。",
+      "color": "#e9dabf",
+      "ink": "#5c4a39",
+      "officialUrl": "https://morning.kodansha.co.jp/c/chiikawa.html",
+      "sourceUrls": [
+        "https://news.kodansha.co.jp/comics/9007",
+        "https://morning.kodansha.co.jp/c/chiikawa.html"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "ORICON 2026-10-05 漫畫作品別銷售週榜",
+      "url": "https://www.oricon.co.jp/rank/cbm/w/2026-10-05/"
+    },
+    {
+      "label": "ORICON 排名統計方法",
+      "url": "https://biz.oricon.co.jp/menu.asp"
+    },
+    {
+      "label": "黑執事 · 官方作品／試讀來源",
+      "url": "https://magazine.jp.square-enix.com/gfantasy/tcym/kuroshitsuji_01/"
+    },
+    {
+      "label": "藍色監獄 · 官方作品／試讀來源",
+      "url": "https://pocket.shonenmagazine.com/title/00617/episode/213491"
+    },
+    {
+      "label": "JOJO 的奇妙冒險 · 官方作品／試讀來源",
+      "url": "https://shonenjumpplus.com/episode/3269632237245268586"
+    },
+    {
+      "label": "薰香花朵凜然綻放 · 官方作品／試讀來源",
+      "url": "https://pocket.shonenmagazine.com/title/01524/episode/329599"
+    },
+    {
+      "label": "入間同學入魔了！ · 官方作品／試讀來源",
+      "url": "https://championcross.jp/episodes/4ba181178e095/"
+    },
+    {
+      "label": "女校之星 · 官方作品／試讀來源",
+      "url": "https://www.shodensha.co.jp/onnanosononohoshi/"
+    },
+    {
+      "label": "王者天下 · 官方作品／試讀來源",
+      "url": "https://ynjn.jp/title/109"
+    },
+    {
+      "label": "HUNTER×HUNTER 獵人 · 官方作品／試讀來源",
+      "url": "https://shonenjumpplus.com/episode/10833519556325021810"
+    },
+    {
+      "label": "排球少年!! · 官方作品／試讀來源",
+      "url": "https://shonenjumpplus.com/episode/10833519556325021936"
+    },
+    {
+      "label": "吉伊卡哇 · 官方作品／試讀來源",
+      "url": "https://news.kodansha.co.jp/comics/9007"
+    },
+    {
+      "label": "少年 Jump+ 使用條款（版權與廣告）",
+      "url": "https://shonenjumpplus.com/article/terms_of_service"
+    }
+  ]
+}
